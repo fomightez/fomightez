@@ -5,7 +5,7 @@
 
 Hi, I'm Wayne. I'm a traditionally trained molecular biologists that is passionate about helping other bench biologists learn how to handle data better using Python and R and by taking advantage of the cloud and containers.
 
-Find me around the web 🌎:
+Find me around the web 🌎 :
 
 - Sharing information and Learning and posting on [Twitter](https://twitter.com/fomightez) 
 - Doing science on [CyVerse](https://cyverse.org/)🧬🧪🥽
