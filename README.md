@@ -1,7 +1,7 @@
 ### Hello 👋
 
 <!--
-**fomightez/fomightez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fomightez/fomightez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Hi, I'm Wayne. I like to help bench biologists learn how to handle data better using Python and R.
 
