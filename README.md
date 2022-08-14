@@ -3,7 +3,7 @@
 <!--
 **fomightez/fomightez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hi, I'm Wayne. I'm a traditionally trained molecular biologists that is passionate about my biological research & helping other bench biologists learn how to handle data better using Python and R and by taking advantage of the cloud and containers.  
+Hi, I'm Wayne. I'm a traditionally trained molecular biologist that is passionate about my biological research & helping other bench biologists learn how to handle data better using Python and R and by taking advantage of the cloud and containers.  
 **Jupyter Distinguished Contributor**
 
 Find me around the web 🌎 :
