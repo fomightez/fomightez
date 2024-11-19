@@ -8,6 +8,7 @@ Hi, I'm Wayne. I'm a traditionally trained molecular biologist that is passionat
 
 Find me around the web 🌎 :
 
+- Sharing information and Learning and posting on [Bluesky](https://bsky.app/profile/fomightez.bsky.social)
 - Sharing information and Learning and posting on [Twitter](https://twitter.com/fomightez) 
 - Doing science on [CyVerse](https://cyverse.org/)🧬🧪🥽
 - Posting on [Proteopedia](https://proteopedia.org/wiki/index.php/User:Wayne_Decatur#Some_Proteopedia_Pages_to_Which_I.27ve_Contributed)🥼🥽
